@@ -59,6 +59,24 @@ date_format = "Jan 2006"
   * Essential Business Skills (EBA 3321)
   * PC Applications (CIS 1130)
   * Mastering eLearning (ASC 1006)
-  
+
     """
+
+    [[experience]]
+      title = "Developer: Curriculum, Coursework, and Educational Resource Content"
+      company = "Pearson Education, nSight, Wisewire, Martinsburg College, and Achiever Education & Training"
+      company_url = ""
+      location = "Florida and Remote"
+      date_start = "2015-01-01"
+      date_end = ""
+      description = """Consult with clients to design curriculum, develop courses, and create educational resource content such as test banks, instructor manuals, case studies, e-book chapters, and video and web-based assessments across a wide variety of business and computer information system disciplines. """
+
+      [[experience]]
+        title = "Manager of Assessment; Program Coordinator; Financial Aid Counselor; Account Analyst"
+        company = "Florida Institute of Technology"
+        company_url = ""
+        location = "Florida"
+        date_start = "2007-08-01"
+        date_end = "2015-08-01"
+        description = """Managed operations and projects for several multi-million-dollar online learning business programs. Managed assessment and accreditation efforts with a focus on student learning outcome attainment and continuous quality improvement for the entire college of psychology and liberal arts, including on-campus and online programs. Developed processes and played an integral role in collaborative team effort to launch the online learning financial aid department. """
 +++
