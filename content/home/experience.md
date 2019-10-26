@@ -56,9 +56,8 @@ date_format = "Jan 2006"
     description = """Faculty engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing students customized feedback and prompt assignment grading; master utilization of proprietary LMS.
     Courses taught:
 
-    * Principles of Management (EMG 3301)
-    * Essential Business Skills (EBA 3321)
-    * PC Applications (CIS 1130)
-    * Mastering eLearning (ASC 1006)
+      * Opportunity Analysis and Franchising (ENT 2172)
+      * Principles of Finance (FIN 2000)
+      * Small Business Accounting and Finance (ENT 2411)
     """
 +++
