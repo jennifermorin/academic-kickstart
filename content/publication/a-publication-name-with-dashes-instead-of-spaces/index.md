@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A Publication Name With Dashes Instead of Spaces"
-authors: []
+title: "Educating business integrators with a computer-based simulation game in the flipped classroom"
+authors: [J Morin, F Tamberelli, T Buhagiar]
 date: 2019-10-26T14:17:14-04:00
 doi: ""
 
@@ -13,13 +13,13 @@ publishDate: 2019-10-26T14:17:14-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Education for Business"
 publication_short: ""
 
-abstract: ""
+abstract: "Many educators utilize simulations to create active learning environments suitable for learning outcome achievement and soft skill development, which are critical for student success in the workforce. However, many educators focus primarily on affective benefits of simulations, such as engagement and motivation, rather than cognitive impacts, such as business knowledge attainment. The authors share favorable results of a quasi-experimental study with large sample (n = 206) that measured cognitive gains through pretest and posttest assessments of simulation game learners in a business finance, flipped classroom, course. Additionally, the authors discuss valuable contextual factors surrounding their study, including the curriculum, course, and flipped classroom approach."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,11 +42,11 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://www.tandfonline.com/doi/abs/10.1080/08832323.2019.1613951
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
