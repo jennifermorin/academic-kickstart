@@ -15,25 +15,25 @@ subtitle = "Tools utilized for completing this website project"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-github"
+  icon = "github"
   icon_pack = "fab"
   name = "GitHub"
   description = "50%"
 
 [[feature]]
-  icon = "fa-atom"
+  icon = "atom"
   icon_pack = "fas"
   name = "Atom"
   description = "60%"  
 
 [[feature]]
-  icon = "fa-laptop-code"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Coding"
   description = "60%"
 
   [[feature]]
-    icon = "fa-laugh-beam"
+    icon = "laugh-beam"
     icon_pack = "fas"
     name = "Patience"
     description = "100%"
