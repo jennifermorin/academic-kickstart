@@ -15,7 +15,7 @@ role: Instructor of Integrated Business
 # Organizations/Affiliations
 organizations:
 - name: University of Central Florida
-  url: "ucf.edu"
+  url: "http://ucf.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a full-time instructor teaching project management in the Integrated Business program at the University of Central Florida. Currently, I'm enrolled in the Texts & Technology doctoral program and my research interests include the intersection of project management, education, and technology, both in the classroom and in the field.
