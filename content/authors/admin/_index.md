@@ -58,8 +58,8 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCXH5qiIA0or7ebZdzqEHQmw
-- icon: cv
-  iconpack: ai
+- icon: briefcase
+  iconpack: fas
   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
