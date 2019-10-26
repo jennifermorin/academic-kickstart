@@ -32,4 +32,9 @@ subtitle = "Tools utilized for completing this website project"
   name = "Coding"
   description = "60%"
 
+  [[feature]]
+    icon = "fa-laugh-beam"
+    icon_pack = "fas"
+    name = "Patience"
+    description = "100%"
 +++
