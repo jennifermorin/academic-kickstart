@@ -58,7 +58,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCXH5qiIA0or7ebZdzqEHQmw
-- icon: briefcase
+- icon: file-download
   iconpack: fas
   link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
