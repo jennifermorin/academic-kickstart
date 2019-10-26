@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Florida"
   date_start = "2013-01-01"
-  date_end = "2013-05-01"
+  date_end = "2014-05-01"
   description = """Faculty develop course content; engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing customized feedback and prompt assignment grading; master utilization of ANGEL LMS.
   Courses taught:
 
