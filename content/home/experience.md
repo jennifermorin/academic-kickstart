@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   """
 
   [[experience]]
-    title = "Adjunct Faculty, Business Programs"
+    title = "Adjunct Faculty, Business and Computer Information Systems Programs"
     company = "Florida Institute of Technology"
     company_url = ""
     location = "Florida"
@@ -55,9 +55,9 @@ date_format = "Jan 2006"
     date_end = "2015-08-01"
     description = """Faculty engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing students customized feedback and prompt assignment grading; master utilization of proprietary LMS. Courses taught:
 
-    * Principles of Management
-    * Essential Business Skills  
-    * PC Applications
-    * Mastering eLearning
+    * Principles of Management (EMG 3301)
+    * Essential Business Skills (EBA 3321)  
+    * PC Applications (CIS 1130)
+    * Mastering eLearning (ASC 1006)
     """
 +++
