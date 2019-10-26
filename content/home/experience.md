@@ -60,19 +60,19 @@ date_format = "Jan 2006"
       * Principles of Finance (FIN 2000)
       * Small Business Accounting and Finance (ENT 2411)
     """
-    
+
     [[experience]]
-      title = "Adjunct Faculty, Business and Entrepreneurship Programs"
-      company = "Eastern Florida State College"
+      title = "Instructor, Project Management, Integrated Business Program"
+      company = "University of Central Florida"
       company_url = ""
       location = "Florida"
-      date_start = "2013-01-01"
-      date_end = "2013-05-01"
-      description = """Faculty develop course content; engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing customized feedback and prompt assignment grading; master utilization of ANGEL LMS.
+      date_start = "2016-08-08"
+      date_end = ""
+      description = """Faculty engage students through a unique and innovative face-to-face, flipped classroom format with a focus on soft-skill development. Students are immersed in course content prior to class meetings via utilization of Canvas LMS online courses and spend class sessions applying concepts through individual and group presentations, activities, and case study analyses with the guidance of high-energy, expert faculty.
       Courses taught:
 
-      * Opportunity Analysis and Franchising (ENT 2172)
-      * Principles of Finance (FIN 2000)
-      * Small Business Accounting and Finance (ENT 2411)
+      * Project Management (MAN 4583)
+      * Managing Small Business Finances (ENT 4412)
       """
+  
 +++
