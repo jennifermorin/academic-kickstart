@@ -59,7 +59,7 @@ date_format = "Jan 2006"
     * Principles of Management (EMG 3301)
     * Essential Business Skills (EBA 3321)
     * PC Applications (CIS 1130)
-    * Mastering eLearing (ASC 1006)
+    * Mastering eLearning (ASC 1006)
     """
 
 +++
