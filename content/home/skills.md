@@ -32,6 +32,12 @@ subtitle = "Acquired during this website development project"
   name = "Coding"
   description = "60%"
 
+[[feature]]
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = "50%"
+
   [[feature]]
     icon = "bug"
     icon_pack = "fas"
