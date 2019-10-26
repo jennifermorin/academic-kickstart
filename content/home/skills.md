@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "Tools utilized for completing this website project"
+subtitle = "Acquired during this website development project"
 
 # Showcase personal skills or business features.
 #
@@ -31,6 +31,12 @@ subtitle = "Tools utilized for completing this website project"
   icon_pack = "fas"
   name = "Coding"
   description = "60%"
+
+  [[feature]]
+    icon = "bug"
+    icon_pack = "fas"
+    name = "Debugging"
+    description = "80%"
 
   [[feature]]
     icon = "laugh-beam"
