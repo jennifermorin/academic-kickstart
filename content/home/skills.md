@@ -6,30 +6,30 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Tools utilized for completing this website project"
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-github"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "GitHub"
+  description = "50%"
+
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-atom"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Atom"
+  description = "60%"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-laptop-code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Coding"
+  description = "60%"
 
 +++
