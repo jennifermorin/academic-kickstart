@@ -23,12 +23,16 @@ bio: I am a full-time instructor teaching project management in the Integrated B
 interests:
 - Project Management
 - Education
-- Technology Applications and Educational Games
+- Technology Applications
+- Educational Games
 
 education:
   courses:
-  - course: MBA
-    institution: Florida Institute of Technology
+  - course: PhD in Texts and Technology
+    institution: University of Central Florida
+    year: In progress
+  - course: BA in Psychology
+    institution: University of Central Florida
     year: 2010
   - course: BA in Psychology
     institution: University of Central Florida
@@ -44,16 +48,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:jennifer.morin@ucf.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/jennifer-morin-pmp-csm-629a8737/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=_MqiQsMAAAAJ&hl=en
+- icon: youtube
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.youtube.com/channel/UCXH5qiIA0or7ebZdzqEHQmw
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jennifermorinpmp@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +74,8 @@ user_groups:
 - Visitors
 ---
 
-Jennifer Morin is a instructor of project management in the integrated business program at the University of Central Florida. Her research interests include project management, education, and technology in both the classroom and the field.
+Jennifer Morin, MBA, PMP, is a faculty member of the Integrated Business Program at UCF teaching courses in Project Management and Managing Small Business Finance. She enjoys teaching in a unique, innovative flipped classroom format with a focus on student soft-skill development and learning outcome achievement through highly interactive and applied learning experiences. Ms. Morin has also served as adjunct business faculty for Florida Tech Online and Eastern Florida State College.
 
-More bio if I want...
+Ms. Morin is also an academic consultant, partnering with higher education industry leaders as a curriculum/course/content developer for both student and instructor resource materials across a wide variety of business disciplines including project management, management, accounting, finance, organizational behavior, human resource management, entrepreneurship, marketing, and quality management.
+
+Ms. Morin is currently a student in the Texts and Technology doctoral program at the University of Central Florida. Her research interests include project management, education, gaming, communications, and technology in both the classroom and the field.
