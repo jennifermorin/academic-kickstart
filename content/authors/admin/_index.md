@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-Jennifer Morin, MBA, PMP, is a faculty member of the Integrated Business Program at UCF teaching courses in Project Management and Managing Small Business Finance. She enjoys teaching in a unique, innovative flipped classroom format with a focus on student soft-skill development and learning outcome achievement through highly interactive and applied learning experiences. Ms. Morin has also served as an adjunct business faculty for Florida Institute of Technology and Eastern Florida State College.
+Jennifer Morin, MBA, PMP, is a faculty member of the **[Integrated Business](https://business.ucf.edu/degree/integrated-business/)** Program at UCF teaching courses in Project Management and Managing Small Business Finance. She enjoys teaching in a unique, innovative flipped classroom format with a focus on student soft-skill development and learning outcome achievement through highly interactive and applied learning experiences. Ms. Morin has also served as an adjunct business faculty for Florida Institute of Technology and Eastern Florida State College.
 
 Ms. Morin is also an academic consultant, partnering with higher education industry leaders as a curriculum/course/content developer for both student and instructor resource materials across a wide variety of business disciplines including project management, management, accounting, finance, organizational behavior, human resource management, entrepreneurship, marketing, and quality management.
 
