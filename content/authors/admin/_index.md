@@ -77,8 +77,8 @@ user_groups:
 - Visitors
 ---
 
-Jennifer Morin, MBA, PMP, is a faculty member of the **[Integrated Business](https://business.ucf.edu/degree/integrated-business/)** Program at UCF teaching courses in Project Management and Managing Small Business Finance. She enjoys teaching in a unique, innovative flipped classroom format with a focus on student soft-skill development and learning outcome achievement through highly interactive and applied learning experiences. Ms. Morin has also served as an adjunct business faculty for Florida Institute of Technology and Eastern Florida State College.
+Jennifer Morin, MBA, PMP, is a faculty member of the **[Integrated Business](https://business.ucf.edu/degree/integrated-business/)** Program at the University of Central Florida teaching courses in Project Management and Managing Small Business Finance. She enjoys teaching in a unique, innovative flipped classroom format with a focus on student soft-skill development and learning outcome achievement through highly interactive and applied learning experiences. Ms. Morin has also served as an adjunct business faculty for Florida Institute of Technology and Eastern Florida State College.
 
 Ms. Morin is also an academic consultant, partnering with higher education industry leaders as a curriculum/course/content developer for both student and instructor resource materials across a wide variety of business disciplines including project management, management, accounting, finance, organizational behavior, human resource management, entrepreneurship, marketing, and quality management.
 
-Ms. Morin is currently a doctoral student in the Texts and Technology program at the University of Central Florida. Her research interests include project management, education, gaming, communications, and technology in both the classroom and the workplace.
+Ms. Morin is currently a doctoral student in the **[Texts and Technology](https://tandt.cah.ucf.edu/)** program at the University of Central Florida. Her research interests include project management, education, gaming, communications, and technology in both the classroom and the workplace.
