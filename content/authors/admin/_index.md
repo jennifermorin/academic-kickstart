@@ -23,16 +23,16 @@ bio: I am a full-time instructor teaching project management in the Integrated B
 interests:
 - Project Management
 - Education
-- Technology Applications
-- Educational Games
+- Technology
+- Gaming
 
 education:
   courses:
   - course: PhD in Texts and Technology
     institution: University of Central Florida
     year: In progress
-  - course: BA in Psychology
-    institution: University of Central Florida
+  - course: MBA
+    institution: Florida Institute of Technology
     year: 2010
   - course: BA in Psychology
     institution: University of Central Florida
@@ -81,4 +81,4 @@ Jennifer Morin, MBA, PMP, is a faculty member of the Integrated Business Program
 
 Ms. Morin is also an academic consultant, partnering with higher education industry leaders as a curriculum/course/content developer for both student and instructor resource materials across a wide variety of business disciplines including project management, management, accounting, finance, organizational behavior, human resource management, entrepreneurship, marketing, and quality management.
 
-Ms. Morin is currently a student in the doctoral Texts and Technology program at the University of Central Florida. Her research interests include project management, education, gaming, communications, and technology in both the classroom and the workplace.
+Ms. Morin is currently a doctoral student in the Texts and Technology program at the University of Central Florida. Her research interests include project management, education, gaming, communications, and technology in both the classroom and the workplace.
