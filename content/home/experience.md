@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2013-01-01"
   date_end = "2014-05-01"
-  description = """Faculty develop course content; engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing customized feedback and prompt assignment grading; master utilization of ANGEL LMS.
+  description = """Develop course content; engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing customized feedback and prompt assignment grading; master utilization of ANGEL LMS.
   Courses taught:
 
   * Opportunity Analysis and Franchising (ENT 2172)
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
     location = "Florida"
     date_start = "2008-03-01"
     date_end = "2015-08-01"
-    description = """Faculty engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing students customized feedback and prompt assignment grading; master utilization of proprietary LMS. Courses taught:
+    description = """Engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing students customized feedback and prompt assignment grading; master utilization of proprietary LMS. Courses taught:
 
   * Principles of Management (EMG 3301)
   * Essential Business Skills (EBA 3321)
