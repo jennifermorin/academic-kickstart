@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Texts and Technology
     institution: University of Central Florida
-    year: In progress
+    year: Anticipated Graduation 2022
   - course: MBA
     institution: Florida Institute of Technology
     year: 2010
