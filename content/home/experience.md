@@ -24,11 +24,11 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2016-08-08"
   date_end = ""
-  description = """Faculty engage students through a unique and innovative face-to-face, flipped classroom format with a focus on soft-skill development. Students are immersed in course content prior to class meetings via utilization of Canvas LMS online courses and spend class sessions applying concepts through individual and group presentations, activities, and case study analyses with the guidance of high-energy, expert faculty.
+  description = """Engage students through a unique and innovative face-to-face, flipped classroom format with a focus on soft-skill development. Students are immersed in online course content via Canvas LMS prior to face-to-face class meetings, which are dedicated to applying concepts through individual and group presentations, simulations, activities, and case analyses with the guidance of high-energy, expert faculty.
   Courses taught:
 
-  * Project Management (MAN 4583)
-  * Managing Small Business Finances (ENT 4412)
+  * Project Management
+  * Managing Small Business Finances
   """
 
 [[experience]]
@@ -41,9 +41,9 @@ date_format = "Jan 2006"
   description = """Develop course content; engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing customized feedback and prompt assignment grading; master utilization of ANGEL LMS.
   Courses taught:
 
-  * Opportunity Analysis and Franchising (ENT 2172)
-  * Principles of Finance (FIN 2000)
-  * Small Business Accounting and Finance (ENT 2411)
+  * Opportunity Analysis and Franchising
+  * Principles of Finance
+  * Small Business Accounting and Finance
   """
 
   [[experience]]
@@ -55,10 +55,10 @@ date_format = "Jan 2006"
     date_end = "2015-08-01"
     description = """Engage students through communication tools such as email, course news, and discussion boards; respond to students in a timely manner to encourage achievement of learning objectives; promote positive learning environment by providing students customized feedback and prompt assignment grading; master utilization of proprietary LMS. Courses taught:
 
-  * Principles of Management (EMG 3301)
-  * Essential Business Skills (EBA 3321)
-  * PC Applications (CIS 1130)
-  * Mastering eLearning (ASC 1006)
+  * Principles of Management
+  * Essential Business Skills
+  * PC Applications
+  * Mastering eLearning
 
     """
 
